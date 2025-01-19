@@ -5,6 +5,16 @@ body {
   padding: 0;
 }
 
+.add-to-cart{
+	background-color: red;
+	color: white;
+	padding: 15px;
+	width: 150px;
+	text-align: center;
+	border: none;
+	border-radius: 10px;
+}
+
 /* Style the product section */
 .product {
   display: flex;
